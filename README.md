@@ -1,4 +1,4 @@
-# Web-Scraper
+# Amazon Scraper
 
 ## Overview
 This repository contains a Python script designed to scrape product data from Amazon and store it in a PostgreSQL database. The script uses threading for efficient data extraction and logs all operations for monitoring and debugging purposes.
