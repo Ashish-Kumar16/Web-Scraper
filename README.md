@@ -84,14 +84,3 @@ All operations and errors are logged into `scraper.log`, which helps in monitori
 └── scraper.log
 ```
 
-## Code Quality
-- Adherence to PEP 8 guidelines.
-- Clear and concise code with appropriate comments.
-- Use of meaningful variable and function names.
-
-## Robustness
-- Effective error handling mechanisms.
-- Comprehensive logging for monitoring the scraping process.
-
----
-
