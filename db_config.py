@@ -1,4 +1,3 @@
-# db_config.py
 DB_HOST = 'your_db_host'
 DB_NAME = 'your_db_name'
 DB_USER = 'your_db_user'
